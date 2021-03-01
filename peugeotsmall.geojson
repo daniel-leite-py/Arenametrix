@@ -1,0 +1,4 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type": "Point","coordinates": [9.27948952, 41.59099]},"properties":{"lat":"","lon":"9.27948952","monid":701489,"insee":"","population":0,"nom":" -  -  ","nomb":"S.A.S PIETRI AUTOMOBILES"},"id":701489},
+{"type":"Feature","geometry":{"type": "Point","coordinates": [8.90575, 41.67415]},"properties":{"lat":"","lon":"8.90575","monid":700950,"insee":"","population":0,"nom":" -  -  ","nomb":"ANTOINE CASABIANCA INSULAIRE DIFFUSION AUTOMOBILE"},"id":700950}
+]}
